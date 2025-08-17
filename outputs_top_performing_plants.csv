@@ -1,0 +1,6 @@
+name,type,total_output,capacity_mw,efficiency_percent
+WindRidge,wind,1530,120,~42.71
+Prairie Wind,wind,835,90,~38.58
+Helios Park,solar,970,80,~33.68
+SunField W.,solar,605,60,~28.00
+Desert Sun,solar,355,50,~19.72
