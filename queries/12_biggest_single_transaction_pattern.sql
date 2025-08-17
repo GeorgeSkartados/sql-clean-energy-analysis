@@ -1,0 +1,3 @@
+-- Pattern to find largest value that occurs exactly once (adapt as needed):
+-- SELECT MAX(val) AS biggest_single
+-- FROM (SELECT val FROM T GROUP BY val HAVING COUNT(*) = 1) x;
