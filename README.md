@@ -51,13 +51,6 @@ You can explore the schema and queries interactively here:
 
 ---
 
-## 🎯 Skills Demonstrated
-- **Beginner SQL**: SELECT, WHERE, GROUP BY, HAVING, JOINs  
-- **Intermediate SQL**: CTEs, Window Functions, Subqueries, Set Operations  
-- **Advanced SQL**: Efficiency calculations, Forecast error analysis, Indexing  
-
----
-
 ## 🎯 Why This Project Matters
 This project shows how SQL can be applied to **real-world clean energy problems**:  
 - Tracking plant performance  
